@@ -1,0 +1,1 @@
+This example demonstrates a potential issue in Ruby related to directly manipulating instance variables using `instance_variable_set`. While this method offers flexibility, it can lead to unforeseen problems if not used cautiously. The solution showcases a better approach that respects encapsulation and makes the code more maintainable.
